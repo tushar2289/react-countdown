@@ -1,0 +1,39 @@
+{
+  "name": "react-countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "moment": "^2.24.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts": "2.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar2289/react-countdown.git"
+  },
+  "keywords": [],
+  "author": "Tushar Ranjan Sahoo <tushar.sahoo@upstox.com> (https://upstox.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar2289/react-countdown/issues"
+  },
+  "homepage": "https://github.com/tushar2289/react-countdown#readme"
+}
